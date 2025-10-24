@@ -1,15 +1,5 @@
 import img from './assets/o.jpg'
-function Card() {
 
-    return (
-        <div className="card">
-            <img className="img" src={img} alt="profile picture " />
-            <h2 className="name">Gaurav Singh    </h2>
-            <p >hey i am there what is this </p>
-        </div>
-    );
-
-}
 function Nav() {
     return (
 
@@ -230,7 +220,7 @@ function Footer(){
 
 
 
-export default Card;
+
 export { Nav, Main, Project, Education, Skills, Contact ,Footer };
 
 
