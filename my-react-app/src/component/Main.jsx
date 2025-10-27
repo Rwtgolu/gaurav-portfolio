@@ -1,5 +1,5 @@
 import React from 'react'
-import img from  '/Users/gauravsingh/Desktop/portfolio/my-react-app/src/component/o.jpg';
+import img from '../assets/IMG.png'
 
 const Main = () => {
   return (
